@@ -1,0 +1,9 @@
+tests/_output
+tests/_support/_generated
+.idea
+codecept.phar
+/vendor/
+node_modules/
+chromedriver.exe
+selenium-server.jar
+debug.log
